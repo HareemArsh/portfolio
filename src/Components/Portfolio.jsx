@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/background.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Id card Verification 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a Python Django web application utilizing Tesseract OCR to automatically extract details from ID cards for efficient scanning and data retrieval. Also, designed and implemented RESTful APIs using Django Rest Framework to connect the application with other apps.",
+    url: "https://github.com/HareemArsh/ID_card_Verification",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Farm Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web-based app containing all the management and monitoring of cattle with farming management and data transfer through APIs.",
+    url: "https://github.com/HareemArsh/FarmManagementSystem ",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Microsoft's resume workshop and deployed to Azure. Includes my experience and design abilities.",
+    url: "https://nice-hill-0915d6c00.4.azurestaticapps.net/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Sign Language Translator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Used ML algorithms and Computer Vision to make a sign language-trained system, that will interpret the gestures and hand movements of deaf people that will be easy to communicate between deaf and normal people. ",
+    url: "https://github.com/HareemArsh/SignInterpreter",
   },
 ];
 
