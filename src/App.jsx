@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Hareem Arshad",
   title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  email: "hareemkhawaja13@gmail.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
