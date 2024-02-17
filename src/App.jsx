@@ -27,12 +27,12 @@ const siteProps = {
   name: "Hareem Arshad",
   title: "Web Designer & Content Creator",
   email: "hareemkhawaja13@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "https://github.com/HareemArsh",
+  instagram: "https://instagram.com/imaanerihla",
+  linkedIn: "https://www.linkedin.com/in/hareem-arshad-0aa8b5204",
   medium: "",
   
-  twitter: "microsoft",
+  twitter: "https://x.com/HareemArshad10?t=SSVPHQ5Lf4kAmcjbQ_VONQ&s=09",
   youTube: "Code",
 };
 
